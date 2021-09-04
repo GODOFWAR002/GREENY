@@ -1,30 +1,30 @@
 module.exports = {
     //IMPORTANT: If you need help with the installation of Green-bot, you can join our support server here: https://green-bot.app/discord
-    prefix: "*",
+    prefix: "+",
     // Your discord bot token. https://discord.com/developpers/bots
-    token: "TOKEN",
+    token: "ODgyMTg2NDE1ODg5MzUwNjU2.YS3uHw.jAz0Ivmojl-sAag3JzaUJ3MnlNM",
     // Your ID
-    ownerID: "688402229245509844",
+    ownerID: "852940522267213824",
     // Your name/tag
-    ownerName: "Pauldb09",
+    ownerName: "GOD OF WAR†ᴱᴺ#0001",
     //The footer of the embeds that the bot will send
-    footer: "Green-bot | green-bot.app ",
+    footer: "ORIGIN TECH",
     // The id of the support
     supportID: "729774155037278268",
     // The status of your bot
-    game: "Green-bot | green-bot.app ",
+    game: "ORIGIN BASE.",
     //the color of the embeds
-    color: "#3A871F",
+    color: "RANDOM",
     // OPTIONAL: Your top.gg token.
-    topgg: "TOPGG_TOKEN",
+    topgg: "null",
     // OPTIONAL: The link of your bot's top.gg page.
-    topgg_url: "https://top.gg/bot/783708073390112830",
+    topgg_url: "nukk",
     //the default bot language. fr or en
     defaultLanguage: "en",
     // If dev mod is enabled
     devMode: true,
     // The server where you test the commands
-    devServer: "782661233622515772",
+    devServer: "850777243662811137",
     // If you want to log every command,event etc. Usefull for debuging
     logAll: true,
     // If you want to test your configuration before starting the bot
@@ -42,10 +42,10 @@ module.exports = {
     },
     // some usefull links about your bot, if you don't have an information, put null.
     links: {
-        support: "https://discord.gg/nrReAmApVJ",
-        website: "https://green-bot.app",
-        invite: "https://discord.com/oauth2/authorize?client_id=783708073390112830&scope=bot&permissions=8",
-        commands: "https://green-bot.app/commands"
+        support: "https://discord.gg/originop",
+        website: "null",
+        invite: "https://discord.com/api/oauth2/authorize?client_id=882186415889350656&permissions=8&scope=bot",
+        commands: "null"
     },
     //Database
     database: {
